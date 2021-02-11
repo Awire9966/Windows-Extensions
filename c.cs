@@ -6,7 +6,7 @@ namespace ConsoleAppForKahoot
     {
         static void Main(string[] args)
         {
-            Console.Title = "Hello World!";
+            Console.Title = "Hello World! OOF";
             Console.WriteLine("Hello World!");
             Console.Read();
         }
