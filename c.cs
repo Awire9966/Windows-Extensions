@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleAppForKahoot
+namespace ConsoleApp
 {
     class Program
     {
